@@ -1,6 +1,3 @@
-Certainly, here's the modified README.md file with the description stating that the project was developed using the AWS ecosystem, including services such as S3, DynamoDB, API Gateway, and Lambda. It also includes information on how to upload code using AWS Amplify, all in Brazilian Portuguese:
-
-```markdown
 # Projeto AWS para Gerenciamento de Healthtech
 Este é o repositório principal do projeto, desenvolvido usando o ecossistema da AWS, que inclui serviços como S3, DynamoDB, API Gateway e Lambda para o gerenciamento de uma Healthtech.
 
