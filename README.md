@@ -6,7 +6,6 @@ Este é o repositório principal do projeto, desenvolvido usando o ecossistema d
 Certifique-se de configurar seu ambiente AWS corretamente antes de iniciar o desenvolvimento. Você pode encontrar mais informações sobre como fazer isso no [site da AWS](https://aws.amazon.com/pt/getting-started/).
 
 ## Instalação e Implantação usando AWS Amplify
-
 Este projeto utiliza o AWS Amplify para facilitar a implantação e gerenciamento de recursos da AWS. Para executar o projeto, siga estas etapas:
 
 ### 1. Instale o Amplify CLI
